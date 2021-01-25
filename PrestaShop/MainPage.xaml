@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:Control="clr-namespace:PrestaShop.Control"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="PrestaShop.MainPage">
+    <Grid>
+      <Control:CustomWebView Navigating="webview_Navigating" x:Name="webview" Navigated="webview_Navigated" VerticalOptions="FillAndExpand"  PropertyChanged="WebView_PropertyChanged" PropertyChanging="WebView_PropertyChanging" HorizontalOptions="FillAndExpand" Source="https://www.prestashop.com/en"/>
+
+        <Grid IsVisible="false" x:Name="loader">
+            <Grid BackgroundColor="Black" Opacity=".6">
+
+            </Grid>
+            <ActivityIndicator VerticalOptions="Center" HorizontalOptions="Center" HeightRequest="50" WidthRequest="50" Color="Blue" IsRunning="True" />
+        </Grid>
+
+    </Grid>
+</ContentPage>

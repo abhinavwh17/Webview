@@ -1,0 +1,83 @@
+Function=SystemNative_ConvertErrorPlatformToPal
+	/Users/sauravgupta/Documents/Prestashop_backup/PrestaShopStable/PrestaShop.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ConvertErrorPalToPlatform
+	/Users/sauravgupta/Documents/Prestashop_backup/PrestaShopStable/PrestaShop.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_StrErrorR
+	/Users/sauravgupta/Documents/Prestashop_backup/PrestaShopStable/PrestaShop.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetNonCryptographicallySecureRandomBytes
+	/Users/sauravgupta/Documents/Prestashop_backup/PrestaShopStable/PrestaShop.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_OpenDir
+	/Users/sauravgupta/Documents/Prestashop_backup/PrestaShopStable/PrestaShop.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetReadDirRBufferSize
+	/Users/sauravgupta/Documents/Prestashop_backup/PrestaShopStable/PrestaShop.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadDirR
+	/Users/sauravgupta/Documents/Prestashop_backup/PrestaShopStable/PrestaShop.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CloseDir
+	/Users/sauravgupta/Documents/Prestashop_backup/PrestaShopStable/PrestaShop.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadLink
+	/Users/sauravgupta/Documents/Prestashop_backup/PrestaShopStable/PrestaShop.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Stat2
+	/Users/sauravgupta/Documents/Prestashop_backup/PrestaShopStable/PrestaShop.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_LStat2
+	/Users/sauravgupta/Documents/Prestashop_backup/PrestaShopStable/PrestaShop.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Symlink
+	/Users/sauravgupta/Documents/Prestashop_backup/PrestaShopStable/PrestaShop.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CopyFile
+	/Users/sauravgupta/Documents/Prestashop_backup/PrestaShopStable/PrestaShop.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEGid
+	/Users/sauravgupta/Documents/Prestashop_backup/PrestaShopStable/PrestaShop.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEUid
+	/Users/sauravgupta/Documents/Prestashop_backup/PrestaShopStable/PrestaShop.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Link
+	/Users/sauravgupta/Documents/Prestashop_backup/PrestaShopStable/PrestaShop.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_MkDir
+	/Users/sauravgupta/Documents/Prestashop_backup/PrestaShopStable/PrestaShop.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Rename
+	/Users/sauravgupta/Documents/Prestashop_backup/PrestaShopStable/PrestaShop.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Unlink
+	/Users/sauravgupta/Documents/Prestashop_backup/PrestaShopStable/PrestaShop.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_local_name
+	/Users/sauravgupta/Documents/Prestashop_backup/PrestaShopStable/PrestaShop.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_data
+	/Users/sauravgupta/Documents/Prestashop_backup/PrestaShopStable/PrestaShop.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/sauravgupta/Documents/Prestashop_backup/PrestaShopStable/PrestaShop.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/sauravgupta/Documents/Prestashop_backup/PrestaShopStable/PrestaShop.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+	/Users/sauravgupta/Documents/Prestashop_backup/PrestaShopStable/PrestaShop.iOS/obj/iPhone/Release/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=NetSecurityNative_ReleaseGssBuffer
+	/Users/sauravgupta/Documents/Prestashop_backup/PrestaShopStable/PrestaShop.iOS/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DisplayMinorStatus
+	/Users/sauravgupta/Documents/Prestashop_backup/PrestaShopStable/PrestaShop.iOS/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DisplayMajorStatus
+	/Users/sauravgupta/Documents/Prestashop_backup/PrestaShopStable/PrestaShop.iOS/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ImportUserName
+	/Users/sauravgupta/Documents/Prestashop_backup/PrestaShopStable/PrestaShop.iOS/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ImportPrincipalName
+	/Users/sauravgupta/Documents/Prestashop_backup/PrestaShopStable/PrestaShop.iOS/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ReleaseName
+	/Users/sauravgupta/Documents/Prestashop_backup/PrestaShopStable/PrestaShop.iOS/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitiateCredSpNego
+	/Users/sauravgupta/Documents/Prestashop_backup/PrestaShopStable/PrestaShop.iOS/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitiateCredWithPassword
+	/Users/sauravgupta/Documents/Prestashop_backup/PrestaShopStable/PrestaShop.iOS/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ReleaseCred
+	/Users/sauravgupta/Documents/Prestashop_backup/PrestaShopStable/PrestaShop.iOS/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitSecContext
+	/Users/sauravgupta/Documents/Prestashop_backup/PrestaShopStable/PrestaShop.iOS/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DeleteSecContext
+	/Users/sauravgupta/Documents/Prestashop_backup/PrestaShopStable/PrestaShop.iOS/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=xamarin_start_wwan
+	/Users/sauravgupta/Documents/Prestashop_backup/PrestaShopStable/PrestaShop.iOS/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/sauravgupta/Documents/Prestashop_backup/PrestaShopStable/PrestaShop.iOS/obj/iPhone/Release/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Users/sauravgupta/Documents/Prestashop_backup/PrestaShopStable/PrestaShop.iOS/obj/iPhone/Release/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/sauravgupta/Documents/Prestashop_backup/PrestaShopStable/PrestaShop.iOS/obj/iPhone/Release/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/sauravgupta/Documents/Prestashop_backup/PrestaShopStable/PrestaShop.iOS/obj/iPhone/Release/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/sauravgupta/Documents/Prestashop_backup/PrestaShopStable/PrestaShop.iOS/obj/iPhone/Release/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/sauravgupta/Documents/Prestashop_backup/PrestaShopStable/PrestaShop.iOS/obj/iPhone/Release/mtouch-cache/1-Link/Xamarin.iOS.dll
